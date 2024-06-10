@@ -1,6 +1,18 @@
 # Motor Servicing at Home
 
 Motor Servicing at Home is a web application built with Node.js, Express, and React for managing service requests between service providers and requestors.
+## Customer UI
+![image](https://github.com/mahesh-pohekar/Motor-Servicing-at-Home/assets/106031907/acf5faeb-1849-496c-bda6-1578c741ca0b)
+
+![image](https://github.com/mahesh-pohekar/Motor-Servicing-at-Home/assets/106031907/74402489-4087-4069-bb03-f6cbd85254be)
+
+![image](https://github.com/mahesh-pohekar/Motor-Servicing-at-Home/assets/106031907/637a8aae-b899-4b42-a341-c000d2c8f378)
+
+
+## Admin UI
+![image](https://github.com/mahesh-pohekar/Motor-Servicing-at-Home/assets/106031907/21d4ce22-e69c-40a9-9e56-67316af0a595)
+
+![image](https://github.com/mahesh-pohekar/Motor-Servicing-at-Home/assets/106031907/dff01cab-1a57-4416-991e-89abb08f76b0)
 
 ## Features
 
