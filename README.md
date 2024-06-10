@@ -18,7 +18,7 @@ Motor Servicing at Home is a web application built with Node.js, Express, and Re
 
 - **User Authentication**: Allows users to sign up, log in, and log out.
 - **Service Requests**: Create, view, and manage service requests.
-- **Location-based Services**: Find and connect with nearby service providers.
+- **Location-based Services**: Connect with nearby service providers.
 
 ## Prerequisites
 
